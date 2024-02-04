@@ -14,6 +14,7 @@
         "Max":16,
         "Temp":3
     },
+    "Proficiency":["Dexterity",2],
     "Class":"Scout (Alley Cat)",
     "Nationality":"American",
     "Armor Class":13,
